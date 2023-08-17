@@ -1,5 +1,5 @@
 Pytorch implementation of Self-Attention Graph Pooling
-====
+==== 
 
 PyTorch implementation of [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)
 
